@@ -1,0 +1,34 @@
+[
+  {
+    "appId": "264710",
+    "name": "Subnautica",
+    "icon": "assets/icons/subnautica.png",
+    "banner": "assets/banners/subnautica.jpg",
+    "description": "Survie sous-marine sur une planète alien.",
+    "status": "supported"
+  },
+  {
+    "appId": "1966720",
+    "name": "Lethal Company",
+    "icon": "assets/icons/lethal.png",
+    "banner": "assets/banners/lethal.jpg",
+    "description": "Jeu coopératif d'exploration et d'horreur.",
+    "status": "supported"
+  },
+  {
+    "appId": "427520",
+    "name": "Factorio",
+    "icon": "assets/icons/factorio.png",
+    "banner": "assets/banners/factorio.jpg",
+    "description": "Jeu d'automatisation",
+    "status": "comming_soon"
+  },
+  {
+    "appId": "000000000000",
+    "name": "DEBUG",
+    "icon": "",
+    "banner": "",
+    "description": "Ce jeux n'existe pas, aucune interaction avec lui ne devrait être possible",
+    "status": "not_supported"
+  }
+]
